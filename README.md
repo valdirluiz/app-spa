@@ -30,9 +30,9 @@ Angular Js é framework para desenvolvimento de single page aplication desenvolv
 ## Trabalho realizado
 
 O trabalho está resumido em três views:
- -Home, contendo o botão de login.
- -Implementação, contendo o algoritmo solicitado.
- -Meu perfil, contendo informações do usuário vindos do google, e também sua foto de perfil.
+ - Home, contendo o botão de login.
+ - Implementação, contendo o algoritmo solicitado.
+ - Meu perfil, contendo informações do usuário vindos do google, e também sua foto de perfil.
 
 Em todas as views existe um relógio, usando ng-include para incluir, o relógio é gerenciado por factory com uma instancia singleton no sistema. Dessa forma é possível navegar entre as telas e apresentar o mesmo tempo decorrido, existe também um controlador para essa função.
 
@@ -44,9 +44,9 @@ Para realizar o login foi criado um controlador chamado `LoginCtrl` que faz a co
 
 As escolhas mais importantes escolhidas no desenvolvimento são as seguintes:
 
- -Utilização de yeoman para geração do projeto e arquivos, deixando dessa forma uma melhor organização do projeto.
- -Utilização do grunt para gerenciar deploy.
- -Utilização de bower para gerenciar dependencias.
+ - Utilização de yeoman para geração do projeto e arquivos, deixando dessa forma uma melhor organização do projeto.
+ - Utilização do grunt para gerenciar deploy.
+ - Utilização de bower para gerenciar dependencias.
 
 ## Facilidades e dificuldades encotradas
 
