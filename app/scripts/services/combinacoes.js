@@ -39,7 +39,7 @@ angular.module('spaTestApp')
 
           retorno.push(item);
       }
-      return res;
+      return retorno;
     }
 
     
