@@ -5,9 +5,8 @@ A aplicação pode ser acessado pelo seguinte [link](http://valdirluiz.github.io
 #Configurando o ambiente
 
 Execute o comando:
-```
- git clone https://github.com/valdirluiz/app-spa
 
+```git clone https://github.com/valdirluiz/app-spa
 ``` 
 
 ## O que é SPA
