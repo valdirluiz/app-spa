@@ -4,9 +4,19 @@ A aplicação pode ser acessado pelo seguinte [link](http://valdirluiz.github.io
 
 #Configurando o ambiente
 
-Execute o comando:
+Baixe o projeto com comando:
 ```
 git clone https://github.com/valdirluiz/app-spa
+``` 
+
+Entro no diretório e baixe as dependencias e instale o app com o comando
+```
+npm install && bower install
+``` 
+
+Inicie o servidor
+```
+grunt serve
 ``` 
 
 ## O que é SPA
