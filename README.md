@@ -40,4 +40,23 @@ O algoritmo de combinação esta implementado dentro de um factoy chamado `Combi
 
 Para realizar o login foi criado um controlador chamado `LoginCtrl` que faz a comunição com o google usando gapi e oauth. 
 
+## Escolhas importantes realizada no percurso
+
+As escolhas mais importantes escolhidas no desenvolvimento são as seguintes:
+
+ -Utilização de yeoman para geração do projeto e arquivos, deixando dessa forma uma melhor organização do projeto.
+ -Utilização do grunt para gerenciar deploy.
+ -Utilização de bower para gerenciar dependencias.
+
+## Facilidades e dificuldades encotradas
+
+As principais facilidades encontradas no desenvolvimento, foi a preparaçao do ambiente, o gerenciamento de dependencias, e o build, devido a correta escolha das ferramentas mencionadas anteriormente. 
+
+As principais dificuldades encontradas foram o desenvolvimento do algoritmo de de análise combinatória, e a configuração com a api do google. 
+
+## Bonus que foi desenvolvido
+Foi criado um top bar, onde foi alterado o css padrão do boostrap.
+Foi criado uma página Meu perfil onde mostra a foto do usuário.
+O botão processar da tela de implementação só é habilitado quando os campos forem preenchidos.
+
 
